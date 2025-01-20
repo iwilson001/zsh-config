@@ -11,4 +11,7 @@
   - mv ~/.zshrc ~/.zshrc.bak
 - create new .zshrc
   - touch ~/.zshrc
-- 
+- install font on system
+  - sudo apt install ttf-jetbrains-mono-nerd (didn't work)
+  - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/install_manual.sh)" gets from github, https://github.com/JetBrains/JetBrainsMono
+    - also didn't really work? not sure what to do for wsl for now...
