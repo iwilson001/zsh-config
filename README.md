@@ -15,3 +15,6 @@
   - sudo apt install ttf-jetbrains-mono-nerd (didn't work)
   - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/install_manual.sh)" gets from github, https://github.com/JetBrains/JetBrainsMono
     - also didn't really work? not sure what to do for wsl for now...
+
+**Other**
+- To rerun p10k, use p10k command
